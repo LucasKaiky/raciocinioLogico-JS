@@ -1,4 +1,4 @@
-Olá a todos os leitores, neste repositório você encontrará exercícios resolvidos do site https://www.beecrowd.com.br/
+Olá a todos os leitores, neste repositório você encontrará exercícios resolvidos do site https://www.beecrowd.com.br/ na linguagem JavaScript
 
 Atributos:
 - Melhorar o raciocínio lógico
